@@ -1,5 +1,10 @@
 # Herramientas
 
-# 🚨Modificación de muestra de que Juan estuvo aquí 🚨
+# 🚨Modificación de la rama secundaria modificación 🚨
 
-Posten un codigo, un "hola mundo" 
+solo es un ejemplo de como modifico una de las nuevas ramas
+
+def hola_mundo():
+    print("Hola Mundo")
+
+hola_mundo()
